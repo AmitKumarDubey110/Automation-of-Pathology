@@ -1,4 +1,23 @@
 # Automation-of-Pathology
+
+Project details:-
+Thanks for Visiting this repository!
+
+Project Name : Automation-of-Pathology
+
+Project URL : https://github.com/AmitKumarDubey110/Automation-of-Pathology
+
+Group Members : Amit Kumar Dubey, Aman Sinha and Mukul Deep
+
+Project Supervisor : Shashank Bhardwaj Sir
+
+Purpose : Major Project
+
+Department : MCA
+
+Collage : KIET Group of Institutions, Ghaziabad, Uttar Pradesh
+
+Descriptions:-
 This is our major project of MCA.
 In this project we had tried to make a web based application by which the pathology and the user have the one-to-one intraction for the pathological report.
 we had made the  two interfaces ie, user and client side inetrfaces.
